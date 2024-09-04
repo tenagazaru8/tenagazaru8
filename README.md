@@ -1,6 +1,6 @@
 趣味で競技プログラミングやってます  
-・AtCoder:<https://atcoder.jp/users/tenagazaru>  
-・CODEFORCES:<https://codeforces.com/profile/tenagazaru>  
+・AtCoder : <https://atcoder.jp/users/tenagazaru>  
+・CODEFORCES : <https://codeforces.com/profile/tenagazaru>  
 
 <!--
 **tenagazaru8/tenagazaru8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
